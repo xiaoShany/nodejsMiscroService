@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoShany/nodejsMiscroService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoShany/nodejsMiscroService/issues"
+  },
+  "homepage": "https://github.com/xiaoShany/nodejsMiscroService#readme",
+  "dependencies": {
+    "seneca": "^3.6.0"
+  }
+}
